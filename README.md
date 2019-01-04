@@ -1,7 +1,7 @@
 # CustomWidgetPack
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/index.html)
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[![Version](https://img.shields.io/badge/Version-0.2.0-orange.svg)](https://dl.bintray.com/allenxuan/maven/com/github/allenxuan/littledownloadhelper/0.1.0/)
+[![Version](https://img.shields.io/badge/Version-0.3.0-orange.svg)](https://dl.bintray.com/allenxuan/maven/com/github/allenxuan/littledownloadhelper/0.1.0/)
 
 #### CustomWidgetPack contains commonly used custom widgets on Android Platform.
 
@@ -18,7 +18,7 @@ allprojects {
 and add this to your module's build.gradle.
 ```
 dependencies {
-    compile 'com.github.allenxuan:customwidgetpack:0.2.0'
+    compile 'com.github.allenxuan:customwidgetpack:0.3.0'
 }
 ```
 
