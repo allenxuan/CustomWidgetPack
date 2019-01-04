@@ -9,10 +9,10 @@ android {
 
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 17
         targetSdkVersion 28
-        versionCode 2
-        versionName "0.2.0"
+        versionCode 3
+        versionName "0.3.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -50,7 +50,7 @@ ext {
     siteUrl = 'https://github.com/allenxuan/CustomWidgetPack'
     gitUrl = 'https://github.com/allenxuan/CustomWidgetPack.git'
 
-    libraryVersion = '0.2.0'
+    libraryVersion = '0.3.0'
 
     developerId = 'allenxuan'
     developerName = 'Xuanyi Huang'

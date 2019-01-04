@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuickSideBarView">
+        <attr name="sidebarTextColor" format="color|reference"/>
+        <attr name="sidebarBackgroundColor" format="color|reference"/>
+        <attr name="sidebarTextColorChoose" format="color|reference"/>
+        <attr name="sidebarTextSize" format="dimension"/>
+        <attr name="sidebarBgColorChoose" format="color|reference"/>
+        <attr name="sidebarTextSizeChoose" format="color|reference"/>
+        <attr name="sidebarItemHeight" format="dimension"/>
+        <attr name="sidebar_font_path" format="string"/>
+        <attr name="sidebar_tips_background" format="reference"/>
+    </declare-styleable>
+</resources>
