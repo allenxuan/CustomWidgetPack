@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="with_outer_circle" format="boolean" />
+        <attr name="outer_circle_color" format="color" />
+        <attr name="outer_circle_width" format="integer" />
+    </declare-styleable>
+</resources>
